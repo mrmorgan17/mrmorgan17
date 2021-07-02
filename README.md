@@ -74,8 +74,9 @@
   </dt>
   </br>
   <dd>
-    <img height="50" hspace="20" alt="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"> 
-    <img height="50" hspace="20" alt="GitHub" src="https://github.com/rdimascio/icons/blob/master/icons/light/github.svg">
+    <img height="50" hspace="20" alt="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"> 
+    <img height="50" hspace="20" alt="GitHub" src="https://github.com/detain/svg-logos/blob/master/svg/github-icon-1.svg">
+    <img height="50" hspace="20" alt="LaTeX" src="https://i.stack.imgur.com/Sx2ec.png">
   </dd>
 </dl>
     
