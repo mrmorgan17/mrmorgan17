@@ -79,6 +79,7 @@
     <img height="50" hspace="20" alt="Markdown" src="https://github.com/detain/svg-logos/blob/master/svg/markdown.svg">
     <img height="50" hspace="20" alt="LaTeX" src="https://upload.wikimedia.org/wikipedia/commons/4/45/LaTeX_project_logo_bird.svg">
     <img height="50" hspace="20" alt="iTerm2" src="https://github.com/steverichey/DockIcons/blob/master/icons/iterm2.svg">
+    <img height="50" hspace="20" alt="HTML" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
     <img height="50" hspace="20" alt="plotly" src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-official.svg">
     <img height="50" hspace="20" alt="NumPy" src="https://github.com/gilbarbara/logos/blob/master/logos/numpy.svg">
   </dd>
