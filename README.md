@@ -78,6 +78,18 @@
     <img height="50" hspace="20" alt="GitHub" src="https://github.com/detain/svg-logos/blob/master/svg/github-icon-1.svg">
     <img height="50" hspace="20" alt="Markdown" src="https://github.com/detain/svg-logos/blob/master/svg/markdown.svg">
     <img height="50" hspace="20" alt="LaTeX" src="https://upload.wikimedia.org/wikipedia/commons/4/45/LaTeX_project_logo_bird.svg">
+    <img height="50" hspace="20" alt="iTerm2" src="https://github.com/steverichey/DockIcons/blob/master/icons/iterm2.svg">
+    <img height="50" hspace="20" alt="plotly" src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-official.svg">
+    <img height="50" hspace="20" alt="NumPy" src="https://github.com/gilbarbara/logos/blob/master/logos/numpy.svg">
+    <img height="50" hspace="20" alt="pandas" src="https://github.com/valohai/ml-logos/blob/master/pandas.svg">
+  </dd>
+  <dd>
+    <img height="50" hspace="20" alt="Shiny" src="https://github.com/maxogden/hexbin/blob/gh-pages/vector/shiny.svg">
+    <img height="50" hspace="20" alt="dplyr" src="https://github.com/maxogden/hexbin/blob/gh-pages/vector/dplyr.svg">
+    <img height="50" hspace="20" alt="ggplot2" src="https://github.com/maxogden/hexbin/blob/gh-pages/vector/ggplot2.svg">
+    <img height="50" hspace="20" alt="rvest" src="https://github.com/maxogden/hexbin/blob/gh-pages/vector/rvest.svg">
+    <img height="50" hspace="20" alt="stringr" src="https://github.com/maxogden/hexbin/blob/gh-pages/vector/stringr.svg">
+    <img height="50" hspace="20" alt="Stan" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_stan.svg">
   </dd>
 </dl>
     
