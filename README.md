@@ -92,9 +92,3 @@
     <img height="50" hspace="20" alt="Stan" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_stan.svg">
   </dd>
 </dl>
-    
-</br>
-</br>
-</br>
-
-Credits: [mrmorgan17](https://github.com/mrmorgan17)
