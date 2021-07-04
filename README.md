@@ -92,4 +92,8 @@
     <img height="50" hspace="20" alt="rvest" src="https://github.com/maxogden/hexbin/blob/gh-pages/vector/rvest.svg">
     <img height="50" hspace="20" alt="stringr" src="https://github.com/maxogden/hexbin/blob/gh-pages/vector/stringr.svg">
   </dd>
+  <dd>
+    <img height="50" hspace="20" alt="MySQL" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg">
+    <img height="50" hspace="20" alt="PostgreSQL" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg">
+  </dd>
 </dl>
