@@ -81,10 +81,10 @@
     <img height="50" hspace="20" alt="iTerm2" src="https://github.com/steverichey/DockIcons/blob/master/icons/iterm2.svg">
     <img height="50" hspace="20" alt="HTML" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
     <img height="50" hspace="20" alt="plotly" src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-official.svg">
-    <img height="50" hspace="20" alt="NumPy" src="https://github.com/gilbarbara/logos/blob/master/logos/numpy.svg">
   </dd>
   <dd>  
     <img height="50" hspace="20" alt="pandas" src="https://github.com/valohai/ml-logos/blob/master/pandas.svg">
+    <img height="50" hspace="20" alt="NumPy" src="https://github.com/gilbarbara/logos/blob/master/logos/numpy.svg">
     <img height="50" hspace="20" alt="Stan" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_stan.svg">
     <img height="50" hspace="20" alt="Shiny" src="https://github.com/maxogden/hexbin/blob/gh-pages/vector/shiny.svg">
     <img height="50" hspace="20" alt="dplyr" src="https://github.com/maxogden/hexbin/blob/gh-pages/vector/dplyr.svg">
