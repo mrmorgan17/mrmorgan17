@@ -82,8 +82,6 @@
     <img height="50" hspace="20" alt="plotly" src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-official.svg">
     <img height="50" hspace="20" alt="NumPy" src="https://github.com/gilbarbara/logos/blob/master/logos/numpy.svg">
     <img height="50" hspace="20" alt="pandas" src="https://github.com/valohai/ml-logos/blob/master/pandas.svg">
-  </dd>
-  <dd>
     <img height="50" hspace="20" alt="Shiny" src="https://github.com/maxogden/hexbin/blob/gh-pages/vector/shiny.svg">
     <img height="50" hspace="20" alt="dplyr" src="https://github.com/maxogden/hexbin/blob/gh-pages/vector/dplyr.svg">
     <img height="50" hspace="20" alt="ggplot2" src="https://github.com/maxogden/hexbin/blob/gh-pages/vector/ggplot2.svg">
