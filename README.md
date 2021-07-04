@@ -48,16 +48,16 @@
   </br>
   <dd>
     <img height="50" hspace="20" alt="R" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"> 
-    <img height="50" hspace="20" alt="Python" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
-    <img height="50"  hspace="20" alt="SAS" src="https://www.vectorlogo.zone/logos/sas/sas-ar21.svg">
+    <img height="50" hspace="20" alt="Python" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"> 
+    <img height="50"  hspace="20" alt="SAS" src="https://www.vectorlogo.zone/logos/sas/sas-icon.svg">
   </dd>
   <dt>
     IDEs
   </dt>
   </br>
   <dd>
-    <img height="50" hspace="20" alt="RStudio" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/RStudio_logo_flat.svg"> 
-    <img height="50" hspace="20" alt="Jupyter" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> 
+    <img height="50" hspace="20" alt="RStudio" src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg"> 
+    <img height="50" hspace="20" alt="Jupyter" src="https://github.com/gilbarbara/logos/blob/master/logos/jupyter.svg"> 
     <img height="50" hspace="20" alt="Visual Studio Code" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg">
   </dd>
   <dt>
@@ -76,7 +76,8 @@
   <dd>
     <img height="50" hspace="20" alt="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"> 
     <img height="50" hspace="20" alt="GitHub" src="https://github.com/detain/svg-logos/blob/master/svg/github-icon-1.svg">
-    <img height="50" hspace="20" alt="LaTeX" src="https://i.stack.imgur.com/Sx2ec.png">
+    <img height="50" hspace="20" alt="Markdown" src="https://github.com/detain/svg-logos/blob/master/svg/markdown.svg">
+    <img height="50" hspace="20" alt="LaTeX" src="https://upload.wikimedia.org/wikipedia/commons/4/45/LaTeX_project_logo_bird.svg">
   </dd>
 </dl>
     
