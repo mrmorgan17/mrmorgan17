@@ -91,6 +91,7 @@
     <img height="50" hspace="20" alt="Shiny" src="https://github.com/maxogden/hexbin/blob/gh-pages/vector/shiny.svg">
     <img height="50" hspace="20" alt="dplyr" src="https://github.com/maxogden/hexbin/blob/gh-pages/vector/dplyr.svg">
     <img height="50" hspace="20" alt="ggplot2" src="https://github.com/maxogden/hexbin/blob/gh-pages/vector/ggplot2.svg">
+    <img height="50" hspace="20" alt="rmarkdown" src="https://github.com/maxogden/hexbin/blob/gh-pages/vector/rmarkdown.svg">
     <img height="50" hspace="20" alt="rvest" src="https://github.com/maxogden/hexbin/blob/gh-pages/vector/rvest.svg">
     <img height="50" hspace="20" alt="stringr" src="https://github.com/maxogden/hexbin/blob/gh-pages/vector/stringr.svg">
   </dd>
