@@ -1,4 +1,4 @@
-<a href="https://myanimelist.net/profile/Stretch17">
+<a href="https://myanimelist.net/animelist/Stretch17">
   <img align="right" alt="My Anime List" width="25" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/myanimelist.svg" />
 </a>
 <a href="https://www.reddit.com/user/matt4byu">
