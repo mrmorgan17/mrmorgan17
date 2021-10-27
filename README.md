@@ -29,7 +29,7 @@
   - <img alt="St. Louis, Missouri" height="15" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_St._Louis%2C_Missouri.svg"> Hometown: St. Louis, Missouri
   - <a href="https://www.byu.edu"><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/95/BYU_Cougars_logo.svg"></a> Graduate Student: MS Statistics
   - 💻 ![](https://img.shields.io/badge/Apple-MacBook_Pro_2020-999999?style=flat&logo=apple&logoColor=white)
-  - 🇦🇷 Hablo español
+  - <img alt="Argentina Flag" height="15" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"> Hablo español
   - 🏀 Sports enthusiast
   
 </br>
