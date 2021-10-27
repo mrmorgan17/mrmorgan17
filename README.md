@@ -82,15 +82,16 @@
   <dd>  
     <img height="50" hspace="20" alt="pandas" src="https://github.com/valohai/ml-logos/blob/master/pandas.svg">
     <img height="50" hspace="20" alt="NumPy" src="https://github.com/gilbarbara/logos/blob/master/logos/numpy.svg">
+    <img height="50" hspace="20" alt="sklearn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
     <img height="50" hspace="20" alt="Stan" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_stan.svg">
+    <img height="50" hspace="20" alt="MySQL" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg">
+    <img height="50" hspace="20" alt="PostgreSQL" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg">
+  </dd>
+  <dd>
     <img height="50" hspace="20" alt="Shiny" src="https://github.com/maxogden/hexbin/blob/gh-pages/vector/shiny.svg">
     <img height="50" hspace="20" alt="dplyr" src="https://github.com/maxogden/hexbin/blob/gh-pages/vector/dplyr.svg">
     <img height="50" hspace="20" alt="ggplot2" src="https://github.com/maxogden/hexbin/blob/gh-pages/vector/ggplot2.svg">
     <img height="50" hspace="20" alt="rvest" src="https://github.com/maxogden/hexbin/blob/gh-pages/vector/rvest.svg">
     <img height="50" hspace="20" alt="stringr" src="https://github.com/maxogden/hexbin/blob/gh-pages/vector/stringr.svg">
-  </dd>
-  <dd>
-    <img height="50" hspace="20" alt="MySQL" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg">
-    <img height="50" hspace="20" alt="PostgreSQL" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg">
   </dd>
 </dl>
