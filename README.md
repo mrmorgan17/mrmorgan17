@@ -1,9 +1,3 @@
-<a href="https://myanimelist.net/animelist/Stretch17">
-  <img align="right" alt="My Anime List" width="25" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/myanimelist.svg" />
-</a>
-<a href="https://www.reddit.com/user/matt4byu">
-  <img align="right" alt="Reddit" width="25" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
-</a>
 <a href="https://stackexchange.com/users/18102057/mrmorgan17">
   <img align="right" alt="StackExchange" width="25" src="https://www.vectorlogo.zone/logos/stackexchange/stackexchange-icon.svg" />
 </a>
