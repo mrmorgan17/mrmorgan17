@@ -1,5 +1,5 @@
 <a href="https://stackexchange.com/users/18102057/mrmorgan17">
-  <img align="right" alt="StackExchange" width="25" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/317_Stack_Exchange_logo-512.png" />
+  <img align="right" alt="StackExchange" width="25" src="https://seeklogo.com/images/S/stack-exchange-logo-0E3E87AB41-seeklogo.com.png" />
 </a>
 <a href="https://stackoverflow.com/users/13159772/mrmorgan17?tab=profile">
   <img align="right" alt="StackOverflow" width="25" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" />
@@ -75,7 +75,7 @@
   </dd>
   <dd>  
     <img height="50" hspace="20" alt="pandas" src="https://github.com/valohai/ml-logos/blob/master/pandas.svg">
-    <img height="50" hspace="20" alt="NumPy" src="https://github.com/gilbarbara/logos/blob/master/logos/numpy.svg">
+    <img height="50" hspace="20" alt="NumPy" src="https://user-images.githubusercontent.com/50221806/86498201-a8bd8680-bd39-11ea-9d08-66b610a8dc01.png">
     <img height="50" hspace="20" alt="sklearn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
     <img height="50" hspace="20" alt="Stan" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_stan.svg">
     <img height="50" hspace="20" alt="MySQL" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg">
