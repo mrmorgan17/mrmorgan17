@@ -1,5 +1,5 @@
 <a href="https://stackexchange.com/users/18102057/mrmorgan17">
-  <img align="right" alt="StackExchange" width="25" src="https://seeklogo.com/images/S/stack-exchange-logo-0E3E87AB41-seeklogo.com.png" />
+  <img align="right" alt="StackExchange" width="25" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/stackexchange_logo_icon_167970.png" />
 </a>
 <a href="https://stackoverflow.com/users/13159772/mrmorgan17?tab=profile">
   <img align="right" alt="StackOverflow" width="25" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" />
