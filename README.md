@@ -48,7 +48,7 @@
   </br>
   <dd>
     <img height="50" hspace="20" alt="RStudio" src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg"> 
-    <img height="50" hspace="20" alt="Jupyter" src="https://github.com/gilbarbara/logos/blob/master/logos/jupyter.svg"> 
+    <img height="50" hspace="20" alt="Jupyter" src="https://logos-download.com/wp-content/uploads/2021/01/Jupyter_Logo.png"> 
     <img height="50" hspace="20" alt="Visual Studio Code" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg">
   </dd>
   <dt>
