@@ -8,7 +8,7 @@
   <img align="right" alt="Kaggle" width="25" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" />
 </a>
 <a href="https://www.linkedin.com/in/matthewryanmorgan/">
-  <img align="right" alt="LinkedIn" width="25" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="right" alt="LinkedIn" width="25" src="https://static.vecteezy.com/system/resources/previews/023/986/926/non_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png" />
 </a>
 
 <br/>
