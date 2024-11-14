@@ -67,7 +67,7 @@
   <dd>
     <img height="50" hspace="20" alt="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"> 
     <img height="50" hspace="20" alt="GitHub" src="https://www.pngarts.com/files/8/Github-Logo-Transparent-Background-PNG.png">
-    <img height="50" hspace="20" alt="Markdown" src="https://github.com/detain/svg-logos/blob/master/svg/markdown.svg">
+    <img height="50" hspace="20" alt="Markdown" src="https://www.fullstackpython.com/img/logos/markdown.png">
     <img height="50" hspace="20" alt="LaTeX" src="https://upload.wikimedia.org/wikipedia/commons/4/45/LaTeX_project_logo_bird.svg">
     <img height="50" hspace="20" alt="iTerm2" src="https://github.com/steverichey/DockIcons/blob/master/icons/iterm2.svg">
     <img height="50" hspace="20" alt="HTML" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
