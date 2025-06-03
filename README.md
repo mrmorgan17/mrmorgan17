@@ -1,20 +1,3 @@
-<a href="https://stackexchange.com/users/18102057/mrmorgan17">
-  <img align="right" alt="StackExchange" width="25" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/stackexchange_logo_icon_167970.png" />
-</a>
-<a href="https://stackoverflow.com/users/13159772/mrmorgan17?tab=profile">
-  <img align="right" alt="StackOverflow" width="25" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" />
-</a>
-<a href="https://www.kaggle.com/matt4byu">
-  <img align="right" alt="Kaggle" width="25" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" />
-</a>
-<a href="https://www.linkedin.com/in/matthewryanmorgan/">
-  <img align="right" alt="LinkedIn" width="25" src="https://static.vecteezy.com/system/resources/previews/023/986/926/non_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png" />
-</a>
-
-<br/>
-<br/>
-<br/>
-
 <a target="_blank">
   <img align="right" alt="GIF" src='https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif'>
 </a>
